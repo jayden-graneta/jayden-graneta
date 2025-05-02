@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello everyone, I'm Jayden!<br><br>🎓 I’m a 3rd-year Computer Science and UX Design student at Wilfrid Laurier University.<br>💡 Passionate about creating intuitive, user-centered digital experiences that bridge the gap between design and development.<br>🛠️ I enjoy using my knowledge in CS and UX to create meaningful projects<br>📚 Experienced in tools and technologies like Figma, HTML/CSS, JavaScript, Python, React, and Git.<br>
+👋 Hello everyone, I'm Jayden!<br><br>🎓 I’m a 3rd-year Computer Science and UX Design student at Wilfrid Laurier University.<br>💡 Passionate about creating intuitive, user-centered digital experiences that bridge the gap between design and development.<br>🛠️ I enjoy using my knowledge in CS and UX to create meaningful projects<br>📚 Experienced in tools and technologies like Figma, HTML/CSS, JavaScript, Python, React, and Git.<br>🏐In my free time, I like to play Volleyball, watch shows (my favourite anime is Akira!!) and, yap with my friends
 
 
 ## 🌐 Socials:
